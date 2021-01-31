@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "alugue",
+    "name": "Alugue",
     "slug": "alugue",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -20,6 +20,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.meuapp.devradar",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
@@ -27,6 +28,6 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
   }
 }
